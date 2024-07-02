@@ -1,0 +1,6 @@
+Q5 what is doctype in html?
+
+ans: 1. it is instruction to the web browser that tells about version of html web page 
+     2.it ensures that browser renders the html page correctly by informing about the version of html
+     3. it is the first thing that is needed to done  in html page
+     4. in html5 doctype declaration is easy it is done <!DOCTYPE html>  
